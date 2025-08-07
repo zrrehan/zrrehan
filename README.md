@@ -105,11 +105,11 @@
       <p>Python</p>
     </td>
   </tr>
+</table>
 
-  <h2>Leetcode Problem Solving Stats</h2>
-  <p align="center">
+<h2>Leetcode Problem Solving Stats</h2>
+<p align="center">
   <a href="https://leetcode.com/u/rehan_redia_11/">
     <img height="316" src="https://leetcard.jacoblin.cool/rehan_redia_11?theme=radical&font=Fira%20Code" alt="Rehan's Leetcode Stats"/>
   </a>
 </p>
-</table>
