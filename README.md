@@ -11,7 +11,7 @@
 - Cheers 🥂 
 <hr>
 
-<h3>My Emails</h3>
+<h2>My Emails</h2>
 <div>
     <img width="32" src="images/outlook.png">
     <span>zrrehan@outlook.com</span>
@@ -22,7 +22,7 @@
 </div>
 
 
-<h3>Can find me here</h3>
+<h2>Can find me here</h2>
 
 <h5 align="center">
   <code><a href="https://www.linkedin.com/in/zrrehan/" target="_blank" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
@@ -33,7 +33,7 @@
 </h5>
 
 
-<h3>🔥 Streak Stats</h3>
+<h2>🔥 Streak Stats</h2>
 
   <!-- GitHub Readme Streak Stats - https://github.com/DenverCoder1/github-readme-streak-stats -->
 <p>
@@ -43,7 +43,7 @@
     </a>
 </p>
 
-<h3>Things I code with</h3>
+<h2>Things I code with</h2>
 <table>
   <tr>
     <td align="center" width="96">
@@ -105,4 +105,11 @@
       <p>Python</p>
     </td>
   </tr>
+
+  <h2>Leetcode Problem Solving Stats</h2>
+  <p align="center">
+  <a href="https://leetcode.com/u/rehan_redia_11/">
+    <img height="316" src="https://leetcard.jacoblin.cool/rehan_redia_11?theme=radical&font=Fira%20Code" alt="Rehan's Leetcode Stats"/>
+  </a>
+</p>
 </table>
