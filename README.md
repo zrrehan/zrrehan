@@ -6,10 +6,12 @@
 <h3>Can find me here</h3>
 
 <h5 align="center">
-  <code><a href="https://www.linkedin.com/in/zrrehan/" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
-  <code><a href="https://wa.me/+8801793158877" title="Whatsapp Profile"><img width="22" src="images/whatsapp.png"> Whatsapp</a></code>
-  <code><a href="https://leetcode.com/u/rehan_redia_11/" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
-  <code><a href="htthttps://x.com/r_rrehan_" title="X Profile"><img width="22" src="images/X.png"> X / twitter</a></code>
+  <code><a href="https://www.linkedin.com/in/zrrehan/" target="_blank" title="LinkedIn Profile"><img width="22" src="images/linkedin.png"> LinkedIn</a></code>
+  <code><a href="https://wa.me/+8801793158877" target="_blank" title="Whatsapp Profile"><img width="22" src="images/whatsapp.png"> Whatsapp</a></code>
+  <code><a href="https://leetcode.com/u/rehan_redia_11/" target="_blank" title="Leetcode Profile"><img width="22" src="images/leetcode.png"> Leetcode</a></code>
+  <code><a href="https://x.com/r_rrehan_" target="_blank" title="X Profile"><img width="22" src="images/X.png"> X.com</a></code>
+  <code><a href="mailto:zrrehan@outlook.com" target="_blank" title="Email"><img width="22" src="images/mail.jpg">Email</a></code>
+</a>
 </h5>
 
 <h3>Things I code with</h3>
@@ -44,7 +46,7 @@
       <a href="#macropower-tech">
         <img src="./images/react.png" width="48" height="48" alt="Python" />
       </a>
-      <br><p>React JS</p>
+      <br><p>ReactJS</p>
     </td>
     <td align="center" width="96">
       <a href="#macropower-tech">
