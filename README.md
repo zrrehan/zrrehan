@@ -30,7 +30,7 @@
 
 ---
 
-## 🧠 About Me
+<h1>Yo! <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Nice to see you here...</h1>
 
 ```typescript
 const rehan = {
@@ -96,10 +96,10 @@ const rehan = {
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white"/>
       </p>
       <p>✅ Role-based access control &nbsp; ✅ Payment integration<br>✅ Real-time order tracking &nbsp; ✅ LLM medicine Q&A</p>
-      <a href="#">
+      <a href="https://github.com/zrrehan/MedVault/">
         <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="#">
+      <a href="https://medivault-frontend-phi.vercel.app/">
         <img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -114,10 +114,10 @@ const rehan = {
         <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black"/>
       </p>
       <p>✅ Firebase auth (Email/Google) &nbsp; ✅ Payroll pipeline<br>✅ Salary charts &nbsp; ✅ 3 isolated role dashboards</p>
-      <a href="#">
+      <a href="https://github.com/zrrehan/Managely-Client">
         <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="#">
+      <a href="https://managely-51f92.web.app/">
         <img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
@@ -134,10 +134,10 @@ const rehan = {
         <img src="https://img.shields.io/badge/JWT-000?style=flat-square&logo=json-web-tokens"/>
       </p>
       <p>✅ Dual auth: Email + Google &nbsp; ✅ Light/Dark mode<br>✅ JWT-protected APIs &nbsp; ✅ Job status tracking</p>
-      <a href="#">
+      <a href="https://github.com/zrrehan/playfix-client">
         <img src="https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white"/>
       </a>
-      <a href="#">
+      <a href="https://playfix-af789.web.app/">
         <img src="https://img.shields.io/badge/Live_Demo-58a6ff?style=for-the-badge&logo=vercel&logoColor=white"/>
       </a>
     </td>
